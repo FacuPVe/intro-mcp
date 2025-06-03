@@ -1,4 +1,4 @@
-# Los MCP y mi primer MCP
+# Introducción a los MCP
 
 En este proyecto se han seguido los pasos del vídeo de Midudev: https://www.youtube.com/watch?v=wnHczxwukYY junto con otra documentación educativa para aprender sobre los MCP (Model Context Protocol) y crear mi primer MCP.
 
