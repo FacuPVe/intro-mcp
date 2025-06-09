@@ -12,7 +12,7 @@ Se han hecho pruebas con Claude para comprobar el funcionamiento de los MCP con 
 - pnpm
 - Visual Studio Code
 - Claude
-- @modelcontextprotocol/sdk 
+- @modelcontextprotocol/sdk (https://github.com/modelcontextprotocol/modelcontextprotocol)
 - zod
 - tsx
 
