@@ -30,7 +30,7 @@ A partir de este punto quedaría crear el archivo `main.ts` y seguir los pasos d
 
 ```bash
 pnpm add @modelcontextprotocol/sdk zod
-pnpm add -D tsx`
+pnpm add -D tsx
 ```
 
 
